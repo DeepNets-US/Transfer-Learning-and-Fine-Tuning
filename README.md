@@ -21,6 +21,7 @@ This repository explores the concept and implementation of transfer learning usi
    - Unfreezing specific layers for fine-tuning.
    - Adjusting learning rates and monitoring model performance.
    - Comparison of results with feature extraction approach.
+   - Download pretraind model from - https://www.kaggle.com/datasets/utkarshsaxenadn/fine-tuned-mobilenet-fast-food-dataset
 
 5. **Analysis and Conclusion:**
    - Interpretation of accuracy and loss curves to identify overfitting.
